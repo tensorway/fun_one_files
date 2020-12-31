@@ -5,6 +5,6 @@ Fun projects that are done in one evening:
 - pikado -> a simulation that using the standard deviation of your darts shots determines where to aim to achieve better score
 - micrograd -> implementation of scalar optimization (inspired by pytorch)
 
-
-![pikado](pikado/pikado.png) ![donut](donut/donut.gif) ![micorgrad](micrograd/micrograd.png "optimizing x**
- - 42x + 272")
+![donut](donut/donut.gif) 
+![pikado](pikado/pikado.png) 
+![micorgrad](micrograd/micrograd.png "optimizing x** - 42x + 272")
